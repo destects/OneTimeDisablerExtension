@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneTimeDisablerExtension", "OneTimeDisablerExtension\OneTimeDisablerExtension.csproj", "{6C04A6EE-A922-4FE2-9D2E-EA5A60237CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C04A6EE-A922-4FE2-9D2E-EA5A60237CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C04A6EE-A922-4FE2-9D2E-EA5A60237CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C04A6EE-A922-4FE2-9D2E-EA5A60237CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C04A6EE-A922-4FE2-9D2E-EA5A60237CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C393CF36-B741-406C-812F-66F0C96DE360}
+	EndGlobalSection
+EndGlobal
